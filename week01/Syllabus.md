@@ -76,7 +76,7 @@ Grading
 -----------------------------
 The class is evaluated on a point system for practicality's sake. Each week following class points will be rewarded based on the following scale:
 
-### CoreExpectations
+### Core Expectations
 - Extensively leverage all forms of communication outlined here along with the MFADT network for assistance. The email list, Office Hours, D12 are all available to you as resources.
 - Treat class and assignments respectfully.
 	- Participation in class and homework assignments is essential to a passing grade.
