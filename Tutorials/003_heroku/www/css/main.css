@@ -1,0 +1,29 @@
+html,
+body {
+	background: black;
+	color:white;
+}
+
+#stage {
+	width:300px;
+	height:300px;
+	border:2px solid red;
+	background:white;
+	position: relative;
+}
+
+.is-circle {
+	position: absolute;
+	z-index: 1;
+	background:blue;
+	border-radius:20px;
+	width:20px;
+	height:20px;	
+	opacity: 0.8;
+}
+
+.is-circle.is-me {
+	background:green;
+	z-index: 2;
+	cursor: pointer;
+}

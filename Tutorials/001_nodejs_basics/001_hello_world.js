@@ -1,0 +1,1 @@
+console.log("Look ma, JavaScript on the server side");

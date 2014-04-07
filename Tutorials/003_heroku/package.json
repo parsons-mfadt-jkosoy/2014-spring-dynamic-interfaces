@@ -1,0 +1,16 @@
+{
+  "name": "003_heroku",
+  "version": "0.0.0",
+  "description": "Heroku ======================",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^0.4.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
